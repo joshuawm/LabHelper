@@ -4,3 +4,9 @@
 /config_test.json
 /.vscode
 srcbackup
+
+# Added by cargo
+#
+# already existing elements were commented out
+
+#/target

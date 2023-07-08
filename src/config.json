@@ -1,0 +1,18 @@
+{
+    "auth_server":"http://127.0.0.1",
+    "challenge_url":"/path/to/challenge",
+    "login_url":"/path/to/login",
+
+    "username":"1202120116",
+    "password":"1233232",
+    "ip":"172.23.34.56",
+
+    "acid":1,
+    "double_stack":0,
+    "os":"linux",
+    "name":"linux google",
+    "token":"",
+    "n":200,
+    "utype":1,
+    "time":45
+}
